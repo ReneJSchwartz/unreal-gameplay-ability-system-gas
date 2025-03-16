@@ -1,5 +1,5 @@
-# unreal-gameplay-ability-system-gas
-Implementation of GAS from scratch. Also has some UI, movement, animations etc. Most important parts ripped from Azure cloud. Ask for a full demo if interested. Original readme below.
+# Gameplay Ability System (GAS)
+Implementation of Unreal Engine's GAS from scratch. Also has some UI, movement, animations etc. Most important parts ripped from Azure cloud. Ask for a full demo if interested. Original readme below.
 
 ========================================
 
@@ -21,6 +21,7 @@ Gameplay Effects: GE_Heal_Cost, GE_Regenerate, GE_AddSpeedForDuration, GE_Charac
 Gameplay Cues: GC_Abilities_RegenHaste
 Gameplay Event Tags: Spell.Heal
 Gameplay Cue Tags: Abilities.RegenHaste
+
 Getting Started
 The repository has been uploaded with Unreal specific .gitignore file and requires one to build the project with .uproject file before opening it.
 
